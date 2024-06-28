@@ -8,7 +8,7 @@ in this repository you will see an html css template for a cool designed e-comme
 
 ## :heavy_check_mark: Authors
 
--   created by Rohit Singh (https://github.com/rohitsingh532132)
+-   Created by Rohit Singh (https://github.com/rohitsingh532132)
 
 ## :heavy_check_mark: License
 
